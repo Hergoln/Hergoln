@@ -3,18 +3,20 @@
 
 I am Juliusz, Right now a DevOps engineer but I am looking for new challanges.
 
-### 📫 How to reach me:
+### 📫 How to reach me ...
 Easiest way is through discord
 
 ![Discord](https://img.shields.io/badge/hergoln-5865F2?style=for-the-badge&logo=discord&logoColor=fff)
 
 ### 🌱 Learning ...
-Currently passionate about ... actually do not know what 😅. If you have some ideas you want to discuss with someone I am happy to help.
+how to make use of [Atomic Habits](https://jamesclear.com/atomic-habits) in my day to day life.
 
-I am currently learning Go language as well as deeping a little bit more in Python during my off hours and private projects.
+I am currently learning Go language in my off time as I love this language even though I have not much experience with it. I would love some advice on what to focus on. Also deeping a little bit more into Python as part of daily scripting.
+
+If you are looking for colaborator I am open for suggestions, please hit me up on Discord :wink:
 
 ### 🔭 Working on ...
-I’m currently working on a simple application to view and edit pdf files [pdf-alternator](https://github.com/Hergoln/pdf-alternator). Not much but honest tries to work off hours on some less business more pure coding project.
+I'm currently not working on anything in particular... only on my attempts to make working Go setup that suits me and get to know the language itself [here](https://github.com/Hergoln/GoLearning)
 
 ### 🧰 Technologies and tools
 ---
