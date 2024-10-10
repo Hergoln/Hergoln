@@ -18,14 +18,9 @@ If you are looking for colaborator I am open for suggestions, please hit me up o
 ### 🔭 Working on ...
 I'm currently not working on anything in particular... only on my attempts to make working Go setup that suits me and get to know the language itself [here](https://github.com/Hergoln/GoLearning)
 
+Also trying to get to know more tools like Go or bash via [exercism](https://exercism.org/) website, highly recommend!😙
+
 ### 🧰 Technologies and tools
----
-😐 More amateur for fun but maybe good direction to grow
-
-![Go](https://img.shields.io/badge/GO-454a4d?style=for-the-badge&logo=go&logoColor=blue)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
 ---
 🗂️ Professional
 
@@ -34,6 +29,14 @@ I'm currently not working on anything in particular... only on my attempts to ma
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=fff)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)
 ![Azure](https://img.shields.io/badge/Azure-fff?style=for-the-badge&logo=azuredevops&logoColor=blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+😐 More amateur for fun but maybe good direction to grow
+
+![Go](https://img.shields.io/badge/GO-454a4d?style=for-the-badge&logo=go&logoColor=blue)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 <!--
 Here are some ideas to get you started: 
