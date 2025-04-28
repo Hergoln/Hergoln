@@ -1,1 +1,8 @@
-// to fill in from work
+alias.st !git status
+alias.showb branch --show-current
+alias.cgb config --global
+alias.ci commit
+alias.po push origin HEAD
+alias.mp !git checkout main && git pull origin main
+alias.co checkout
+alias.newb checkout -b
