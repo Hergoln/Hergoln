@@ -1,8 +1,11 @@
 alias.st !git status
 alias.showb branch --show-current
 alias.cgb config --global
+alias.aliases config --global --get-regexp alias.*
 alias.ci commit
-alias.po push origin HEAD
+alias.ph push origin HEAD
 alias.mp !git checkout main && git pull origin main
+alias.mp2 !git checkout master && git pull origin master
 alias.co checkout
 alias.newb checkout -b
+alias.br branch
