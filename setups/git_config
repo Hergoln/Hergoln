@@ -1,0 +1,12 @@
+[alias]
+ st = !git status
+ showb = branch --show-current
+ cgb = config --global
+ aliases = config --global --get-regexp alias.*
+ ci = commit
+ ph = push origin HEAD
+ mp = !git checkout main && git pull origin main
+ mp2 = !git checkout master && git pull origin master
+ co = checkout
+ newb = checkout -b
+ br = branch
