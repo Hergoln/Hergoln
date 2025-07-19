@@ -22,10 +22,10 @@ If you are looking for colaborator I am open for suggestions, please hit me up o
 Looking for da way\
 <image src="do_not_know_if_free_da_way.png" width="120"/>
 
+Except that my newest project is a simple search engine which you can find [here](https://github.com/Hergoln/hergoln-search-engine).
+
 ### 🧰 Technologies and tools
 ---
-🗂️ Professional
-
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=buymeacoffee&logoColor=5382a1)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=fff)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=fff)
