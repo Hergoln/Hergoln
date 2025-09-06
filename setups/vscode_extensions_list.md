@@ -12,3 +12,4 @@
 ## Documentation:
 - Markdown PDF [link](https://marketplace.visualstudio.com/items/?itemName=yzane.markdown-pdf)
 - TODO Tree [link](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- Github Markdown Preview [link](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
