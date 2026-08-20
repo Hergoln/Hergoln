@@ -3,7 +3,8 @@
   -  older machines - [cmder](https://cmder.app/)
   - with windows 11: new cmd tool is good enough
 - create and populate script directory with usefull bash/powershell scripts
-- 💡 [git aliases](/setups/git_aliases)
+- 💡 [git config](/setups/git_config)
+  - copy configuration from /setups/git_config or add each configuration separately if needed
 - 👷 install editor of choice:
   - VS Code (pref) with [useful extensions](/setups/vscode_extensions_list.md)
 
